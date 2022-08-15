@@ -8,7 +8,7 @@
 **[Control panel](https://github.com/alhanoofalsagir/Control-panel.git)** <br />
 
 ## AI Projects 🤖:
-**[AI](https://github.com/alhanoofalsagir/AI-Task-1-2.git)** <br />
+**[Ros installation](https://github.com/alhanoofalsagir/AI-Task-1-2.git)** <br />
 **[Arduino Robot Arm](https://github.com/alhanoofalsagir/Arduino-Robot-Arm.git)** <br />
 
 ## Mechanical engineering projects 🧑‍🔧:
